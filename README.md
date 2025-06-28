@@ -9,8 +9,8 @@
 <div align="center" justify-content="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=falcaoalvinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Álvaro José github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaoalvinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=falcaoalvinho&theme=tokyonight" alt="GitHub Streak" /></a>
-</div> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=falcaoalvinho&theme=tokyonight" alt="GitHub Streak" /></a>
+</div>
 
 <br/>
 
