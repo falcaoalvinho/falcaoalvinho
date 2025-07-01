@@ -1,16 +1,19 @@
 <h1 style="color:#bb9af7; font-weight: 650">💫 Sobre mim</h1>
 
-<div style="display: flex; align-itens: center; justify-content: center;">
-
-  <p style="width: 75%; text-align: left; font-weight: 300; color: #7dcfff">
-  Estudante de Ciências da Computação com formação técnica em Desenvolvimento de
-  Sistemas e grande interesse em desenolvimento de projetos. Comprometido com o
-  aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores.
-  </p>
-
-  <img style="display: flex; height: 100%; float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaoalvinho&theme=tokyonight&hide_border=false&" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <p align="left" style="font-weight: 300; color: #7dcfff" width="50px">
+        Estudante de Ciências da Computação com formação técnica em Desenvolvimento de
+        Sistemas e grande interesse em desenvolvimento de projetos. Comprometido com o
+        aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores.
+      </p>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaoalvinho&theme=tokyonight&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=falcaoalvinho&theme=tokyonight" alt="GitHub Streak"/>
@@ -18,7 +21,7 @@
 
 <h2 style="color:#bb9af7; font-weight: 700">🌐 Contato</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarofalcao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josealvaro3421@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarofalcao)
 
 <h2 style="color:#bb9af7; font-weight: 700">💻 Tech Stack</h2>
 
