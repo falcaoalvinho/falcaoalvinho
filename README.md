@@ -5,7 +5,8 @@
 
   Estudante de Ciências da Computação com formação técnica em Desenvolvimento de
   Sistemas e grande interesse em desenvolvimento de projetos. Comprometido com o
-  aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores.
+  aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores. Busco aplicar minhas habilidades técnicas, capacidade de organização e entusiasmo por
+novas tecnologias em ambientes desafiadores. 
 </p>
 
   <a href="https://git.io/streak-stats">
