@@ -1,22 +1,15 @@
-<h1 style="color:#bb9af7; font-weight: 650">💫 Sobre mim</h1>
+<h1 font-weight="650">💫 Sobre mim</h1>
 
-<table>
-  <tr>
-    <td>
-      <p align="left" style="font-weight: 300; color: #7dcfff" width="50px">
-        Estudante de Ciências da Computação com formação técnica em Desenvolvimento de
-        Sistemas e grande interesse em desenvolvimento de projetos. Comprometido com o
-        aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores.
-      </p>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaoalvinho&theme=tokyonight&hide_border=false" width="100%" />
-    </td>
-  </tr>
-</table>
+<p text-align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaoalvinho&theme=tokyonight&hide_border=true" align="left" />
+
+  Estudante de Ciências da Computação com formação técnica em Desenvolvimento de
+  Sistemas e grande interesse em desenvolvimento de projetos. Comprometido com o
+  aprendizado contínuo, colaborativo e com a entrega de resultados organizados e inovadores.
+</p>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=falcaoalvinho&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=falcaoalvinho&theme=tokyonight"/>
   </a>
 
 <h2 style="color:#bb9af7; font-weight: 700">🌐 Contato</h2>
