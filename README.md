@@ -1,5 +1,5 @@
 <h1 align-text="center">Bem-vindo(a) ao meu perfil.</h1>
-<h4>👽Eu sou Álvaro Falcão, estudante de computação interessado em entender e construir softwares escaláveis.</h4>
+<h3>👽Eu sou Álvaro Falcão, estudante de computação interessado em entender e construir softwares escaláveis.</h3>
 <h2>ℹ️Sobre Mim</h2>
 <p>Trabalhando principalmente com Python, JavaScript e SQL, em análise e modelagem de dados, desenvolvimento com SQLAlchemy, FastAPI, React, React Native, PostgreSQL e MySQL. Principalmente na construção de aplicações Web com  APIs REST integradas.</p>
 </br>
