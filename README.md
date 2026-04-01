@@ -6,8 +6,6 @@
 
 <p>Trabalhando principalmente com Python, Java, JavaScript e SQL, em análise e modelagem de dados, desenvolvimento com SQLAlchemy, FastAPI, React, React Native, PostgreSQL e MySQL. Principalmente na construção de aplicações Web com  APIs REST e Bancos de Dados integrados.</p>
 
-</br>
-
 <h2>💻Tech Stack</h2>
 
 <ul>
@@ -19,8 +17,6 @@
   
   <li>Frontend: React e React Native</li>
 </ul>
-
-</br>
 
 <h2>🏗️Projetos</h2>
 
