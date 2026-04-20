@@ -27,7 +27,7 @@
   
   </br>
   
-  <li><b>projeto-cr-ufabc:</b> Projeto da graduação, fui responsável pela modelagem dos dados em grafos
+  <li><b>football-transfer-network-analysis:</b> Projeto da graduação, fui responsável pela modelagem dos dados em grafos
 usando NetworkX, relacionando +300 clubes e +500 transferências, identificando padrões e
 tendências do mercado futebolístico de atletas.</li>
 
