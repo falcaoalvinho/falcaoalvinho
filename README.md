@@ -4,7 +4,7 @@
 
 <h2>ℹ️Sobre Mim</h2>
 
-<p>Trabalhando principalmente com Python, Java, JavaScript e SQL, em análise e modelagem de dados, desenvolvimento com SQLAlchemy, FastAPI, React, React Native, PostgreSQL e MySQL. Principalmente na construção de aplicações Web com  APIs REST e Bancos de Dados integrados.</p>
+<p>Trabalhando com Python, Java, JavaScript e SQL, em análise e modelagem de dados, desenvolvimento com SQLAlchemy, FastAPI, React, React Native, PostgreSQL e MySQL. Principalmente na construção de aplicações Web com  APIs REST e Bancos de Dados integrados.</p>
 
 <h2>💻Tech Stack</h2>
 
@@ -20,7 +20,7 @@
 
 <h2>🏗️Projetos</h2>
 
-<p>Atualmente tenho estudado arquitetura de software, Docker, Linux, UI/UX no Figma e construindo projetos para explorar novos conhecimentos em engenharia de software.</p>
+<p>Atualmente tenho estudado arquitetura de software, Docker, Linux, UI/UX no Figma, revisitando trabalhos antigos e construindo novos projetos para explorar mais conhecimentos em engenharia de software.</p>
 
 <ul>
   <li><b>pricing-saas-backend:</b> Sistema pensado para pequenas indústrias, feito usando: FastAPI, SQLalchemy, autenticações com JWTs, PostgreSQL, Docker. Busca otimizar o cadastro de produtos, gerar precificação automaticamente e produzir uma interface entre dados relevantes e usuários na construção de insights poderosos.</li>
