@@ -6,7 +6,7 @@
 
 <p>Atualmente tenho trabalhando com Python, Java, JavaScript e SQL, em análise e modelagem de dados, desenvolvimento com SQLAlchemy, FastAPI, React, React Native, PostgreSQL e MySQL. Principalmente na construção de aplicações Web com  APIs REST e Bancos de Dados integrados.</p>
 
-<h2>💻Stack.json</h2>
+<h2>💻MainStack.json</h2>
 
 ```
 {
